@@ -43,6 +43,9 @@
 // 13   UniswapV2   LIQLO-RTC   10x          https://etherscan.io/address/0xfe830ed3885e655621f8bcfc4d19abbca42bff9c
 //      (liqlos mixed with rtc are magic)
 //
+// 14   UniswapV2   SWSH-RTC    8x           https://etherscan.io/address/0xaaa0b3c19df2900ee9ac195724c89c2191c7d086
+//      (swapships mixed with rtc are splendid)
+//
 // * How to join: *
 //
 // 1. Go to etherscan of LP token. Click "Contract" > "Write Contract".
