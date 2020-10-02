@@ -27,6 +27,10 @@
 //  7   SushiSwap   LEND-ETH    1x           https://etherscan.io/address/0x5e63360e891bd60c69445970256c260b0a6a54c6
 //  8   UniswapV2   DAI-ETH     1x           https://etherscan.io/address/0xa478c2975ab1ea89e8196811f51a7b7ade33eb11
 //  9   UniswapV2   ETH-AMPL    1x           https://etherscan.io/address/0xc5be99a02c6857f9eac67bbce58df5572498f40c
+// 18   UniswapV2   WBTC-ETH    1x           https://etherscan.io/address/0xbb2b8038a1640196fbe3e38816f3e67cba72d940
+// 19   UniswapV2   ETH-USDT    1x           https://etherscan.io/address/0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852
+// 20   UniswapV2   USDC-ETH    1x           https://etherscan.io/address/0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc
+// 21   UniswapV2   UNI-ETH     1x           https://etherscan.io/address/0xd3d2e2692501a5c9ca623199d38826e513033a17
 //
 // * Superpools: *
 //
@@ -45,6 +49,14 @@
 //
 // 14   UniswapV2   SWSH-RTC    8x           https://etherscan.io/address/0xaaa0b3c19df2900ee9ac195724c89c2191c7d086
 //      (swapships mixed with rtc are splendid)
+//
+// 15   UniswapV2  SWSH-SPECTRE 9x           https://etherscan.io/address/0x161978e7136b9053c8207709d3d3ccaebaee6a56
+//
+// 16   UniswapV2  SPECTRE-RTC  7x           https://etherscan.io/address/0x04b5473d557c59aa60eb1ad776240fe82b9810bd
+//
+// 17   UniswapV2  SPECTRE-ETH  5x           https://etherscan.io/address/0x5ed6f4c59004bee9f440e84969a93eccac580b40
+//
+//
 //
 // * How to join: *
 //
