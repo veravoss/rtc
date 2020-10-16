@@ -36,25 +36,37 @@
 //
 // ID   DEX         Pool        Multiplier   LP Token Info
 // -----------------------------------------------------------------------------------
-// 10   UniswapV2   SWSH-ETH    2x 
+// 10   UniswapV2   SWSH-ETH    5x 
 //
-// 11   UniswapV2   RTC-ETH     3x           https://etherscan.io/address/0xfde42a9422cb0ee84ede728ab503487b382d135e
+// 11   UniswapV2   RTC-ETH     10x          https://etherscan.io/address/0xfde42a9422cb0ee84ede728ab503487b382d135e
 //      (xoxo for patience it pays off)
 //
-// 12   UniswapV2   LIQLO-ETH   5x           https://etherscan.io/address/0xd18aea36557ade95d23fb051b68443dd99b1b663
+// 12   UniswapV2   LIQLO-ETH   10x          https://etherscan.io/address/0xd18aea36557ade95d23fb051b68443dd99b1b663
 //      (liqlos are diamonds)
 //
-// 13   UniswapV2   LIQLO-RTC   10x          https://etherscan.io/address/0xfe830ed3885e655621f8bcfc4d19abbca42bff9c
+// 13   CLOSED      LIQLO-RTC   0x           https://etherscan.io/address/0xfe830ed3885e655621f8bcfc4d19abbca42bff9c
 //      (liqlos mixed with rtc are magic)
 //
-// 14   UniswapV2   SWSH-RTC    8x           https://etherscan.io/address/0xaaa0b3c19df2900ee9ac195724c89c2191c7d086
+// 14   CLOSED      SWSH-RTC    0x           https://etherscan.io/address/0xaaa0b3c19df2900ee9ac195724c89c2191c7d086
 //      (swapships mixed with rtc are splendid)
 //
-// 15   UniswapV2  SWSH-SPECTRE 9x           https://etherscan.io/address/0x161978e7136b9053c8207709d3d3ccaebaee6a56
+// 15   CLOSED     SWSH-SPECTRE 0x           https://etherscan.io/address/0x161978e7136b9053c8207709d3d3ccaebaee6a56
 //
-// 16   UniswapV2  SPECTRE-RTC  7x           https://etherscan.io/address/0x04b5473d557c59aa60eb1ad776240fe82b9810bd
+// 16   CLOSED     SPECTRE-RTC  0x           https://etherscan.io/address/0x04b5473d557c59aa60eb1ad776240fe82b9810bd
 //
 // 17   UniswapV2  SPECTRE-ETH  5x           https://etherscan.io/address/0x5ed6f4c59004bee9f440e84969a93eccac580b40
+//
+// 22   UniswapV2  PSHP-ETH     5x           https://etherscan.io/address/0x8a390f95d5afaa9f6307be48b84816ba4b1d9cc7
+//
+// 23   Vault      RTC          2x           https://etherscan.io/address/0x7f9a00e03c2e53a3af6031c17a150dbedaaab3dc
+//
+// 24   Vault      LIQLO        2x           https://etherscan.io/address/0x59ad6061a0be82155e7acce9f0c37bf59f9c1e3c
+//
+// 25   Vault      SPECTRE      2x           https://etherscan.io/address/0x441d91f7aaee51c7ae8cab84333d6383a8a8c175
+//
+// 26   Vault      SWSH         2x           https://etherscan.io/address/0x3ac2ab91ddf57e2385089202ca221c360ced0062
+//
+// 27   Vault      PSHP         2x           https://etherscan.io/address/0x88d59ba796fdf639ded3b5e720988d59fdb71eb8
 //
 //
 //
